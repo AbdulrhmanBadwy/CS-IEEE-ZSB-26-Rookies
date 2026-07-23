@@ -11,10 +11,14 @@
             "id": "d454afc09916720d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Backend-IEEE/PHP/PHP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PHP"
             }
           }
         ]
@@ -179,8 +183,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cf00cb82dc021e2a",
+  "active": "d454afc09916720d",
   "lastOpenFiles": [
+    "Backend-IEEE/PHP/PHP.md",
+    "Backend-IEEE/PHP",
+    "Untitled",
     "Backend-IEEE/MySql/MySQL.md",
     "Backend-IEEE/MySql/Pasted image 20260228133629.png",
     "Backend-IEEE/MySql/Pasted image 20260228133600.png",
